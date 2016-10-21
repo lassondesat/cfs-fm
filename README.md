@@ -1,6 +1,6 @@
 # cFS: File Manager
 
-[![GitHub release](https://img.shields.io/github/release/yusend/cfs-fm.svg)](https://github.com/yusend/cfs-fm/releases)
+[![GitHub release](https://img.shields.io/github/release/lassondesat/cfs-fm.svg)](https://github.com/lassondesat/cfs-fm/releases)
 
 * [Original README](cfs-fm-app-OSS-readme.txt)
 
@@ -33,6 +33,6 @@ open file and directory listings.
 
 * https://sourceforge.net/projects/cfs-fm/
 
-[osal]: https://github.com/yusend/osal
-[cfe]: https://github.com/yusend/coreflightexec
-[cfs_lib]: https://github.com/yusend/cfs_lib
+[osal]: https://github.com/lassondesat/osal
+[cfe]: https://github.com/lassondesat/coreflightexec
+[cfs_lib]: https://github.com/lassondesat/cfs_lib
